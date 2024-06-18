@@ -1,0 +1,32 @@
+﻿{
+	"version": 1718730137,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/bar-sheet0.png",
+		"images/start-sheet0.png",
+		"images/start-sheet1.png",
+		"images/progressbar-sheet0.png",
+		"images/wall-sheet0.png",
+		"images/segment-sheet0.png",
+		"images/segment-sheet1.png",
+		"images/segment-sheet2.png",
+		"images/blueexolode.png",
+		"images/yellowexolode.png",
+		"images/redexolode.png",
+		"images/pinkexolode.png",
+		"images/nullexolode.png",
+		"images/greenexolode.png",
+		"images/rainbowexolode.png",
+		"images/cyanexolode.png",
+		"images/sprite-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
